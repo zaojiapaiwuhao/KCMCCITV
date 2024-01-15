@@ -350,8 +350,6 @@ http://ott.mobaibox.com/PLTV/1/224/3221227607/1.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221227018/1.m3u8
 #EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="中国央视",CETV4
 http://ott.mobaibox.com/PLTV/1/224/3221227028/1.m3u8
-#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="中国央视",CETV4
-http://ott.mobaibox.com/PLTV/1/224/3221227657/1.m3u8
 #EXTINF:-1,tvg-id="中学生" tvg-name="中学生" tvg-logo="https://epg.112114.xyz/logo/中学生.png" group-title="中国央视",中央新影中学生
 http://ott.mobaibox.com/PLTV/1/224/3221228704/1.m3u8
 #EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://epg.112114.xyz/logo/发现之旅.png" group-title="中国央视",中央新影发现之旅
