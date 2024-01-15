@@ -344,12 +344,8 @@ http://ott.mobaibox.com/PLTV/1/224/3221228524/1.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221228527/1.m3u8
 #EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="中国央视",CETV1
 http://ott.mobaibox.com/PLTV/1/224/3221225909/1.m3u8
-#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="中国央视",CETV1
-http://ott.mobaibox.com/PLTV/1/224/3221227560/1.m3u8
 #EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="中国央视",CETV2
 http://ott.mobaibox.com/PLTV/1/224/3221227607/1.m3u8
-#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="中国央视",CETV2
-http://ott.mobaibox.com/PLTV/1/224/3221225850/1.m3u8
 #EXTINF:-1,tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://epg.112114.xyz/logo/CETV3.png" group-title="中国央视",CETV3
 http://ott.mobaibox.com/PLTV/1/224/3221227018/1.m3u8
 #EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="中国央视",CETV4
