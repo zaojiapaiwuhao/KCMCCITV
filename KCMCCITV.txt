@@ -32,7 +32,7 @@ http://ott.mobaibox.com/PLTV/1/224/3221227656/1.m3u8
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
 http://ott.mobaibox.com/PLTV/1/224/3221227723/1.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
-http://ott.mobaibox.com/PLTV/1/224/3221228127/1.m3u8
+http://ott.mobaibox.com/PLTV/1/224/3221228320/1.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://ott.mobaibox.com/PLTV/1/224/3221227726/1.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
