@@ -22,15 +22,15 @@ http://ott.mobaibox.com/PLTV/1/224/3221227659/1.m3u8
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10
 http://ott.mobaibox.com/PLTV/1/224/3221227717/1.m3u8
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11
-http://ott.mobaibox.com/PLTV/1/224/3221228289/1.m3u8
+http://ott.mobaibox.com/PLTV/1/224/3221227720/1.m3u8
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
-http://ott.mobaibox.com/PLTV/1/224/3221228401/1.m3u8
+http://ott.mobaibox.com/PLTV/1/224/3221227655/1.m3u8
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13
 http://ott.mobaibox.com/PLTV/1/224/3221228324/1.m3u8
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14
 http://ott.mobaibox.com/PLTV/1/224/3221227656/1.m3u8
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
-http://ott.mobaibox.com/PLTV/1/224/3221228404/1.m3u8
+http://ott.mobaibox.com/PLTV/1/224/3221227723/1.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
 http://ott.mobaibox.com/PLTV/1/224/3221228127/1.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
