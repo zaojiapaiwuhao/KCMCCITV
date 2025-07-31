@@ -36,9 +36,9 @@ http://ott.mobaibox.com/PLTV/1/224/3221228320/1.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://ott.mobaibox.com/PLTV/1/224/3221227726/1.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://ott.mobaibox.com/PLTV/1/224/3221228306/1.m3u8
+http://ott.mobaibox.com/PLTV/1/224/3221228861/1.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
-http://ott.mobaibox.com/PLTV/1/224/3221228410/1.m3u8
+http://ott.mobaibox.com/PLTV/1/224/3221228890/1.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
 http://ott.mobaibox.com/PLTV/1/224/3221228425/1.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
@@ -46,9 +46,9 @@ http://ott.mobaibox.com/PLTV/1/224/3221228309/1.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://ott.mobaibox.com/PLTV/1/224/3221228413/1.m3u8
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
-http://ott.mobaibox.com/PLTV/1/224/3221228312/1.m3u8
+http://ott.mobaibox.com/PLTV/1/224/3221228838/1.m3u8
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://ott.mobaibox.com/PLTV/1/224/3221228236/1.m3u8
+http://ott.mobaibox.com/PLTV/1/224/3221228835/1.m3u8
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
 http://ott.mobaibox.com/PLTV/1/224/3221228171/1.m3u8
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
@@ -268,7 +268,6 @@ http://ott.mobaibox.com/PLTV/1/224/3221228246/1.m3u8
 #EXTINF:-1,tvg-id="镇江3" tvg-name="镇江3" tvg-logo="https://epg.112114.xyz/logo/镇江3.png" group-title="地方",镇江3
 http://ott.mobaibox.com/PLTV/1/224/3221228208/1.m3u8
 #EXTINF:-1,tvg-id="镇江2" tvg-name="镇江2" tvg-logo="https://epg.112114.xyz/logo/镇江2.png" group-title="地方",镇江2
-
 http://ott.mobaibox.com/PLTV/1/224/3221227325/1.m3u8
 #EXTINF:-1,tvg-id="汽摩" tvg-name="汽摩" tvg-logo="https://epg.112114.xyz/logo/汽摩.png" group-title="全国各地频道",汽摩
 http://ott.mobaibox.com/PLTV/1/224/3221228701/1.m3u8
